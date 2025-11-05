@@ -11,7 +11,7 @@ import '../styles/index.css'
 // components
 import SecondsCounter from './components/SecondsCounter.jsx';
 
-let seconds = 72;
+let seconds = 0;
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 function render() {
